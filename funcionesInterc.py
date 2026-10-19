@@ -24,8 +24,7 @@ def comprobar_intento(lista,intento):
     
     print(f"Te ha tocado {lista[seleccion]} palito.")
     
-    
+#ejecutar el juego
 palitos_mezclados = mezclar_palitos(palitos)  
 numero_elegido = probar_suerte()
 comprobar_intento(palitos_mezclados, numero_elegido)
-        
