@@ -1,0 +1,5 @@
+cd ~/Desktop/Python                  # 1. ir a tu repo
+git status                           # 2. ver qué cambió
+git add archivo.py                   # 3. agregar (o "git add ." para todo)
+git commit -m "Qué hiciste"          # 4. guardar en tu PC
+git push                             # 5. subir a GitHub
